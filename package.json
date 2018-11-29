@@ -1,0 +1,42 @@
+{
+  "name": "@jaydp17/eslint-config",
+  "description": "ESLint config for all my personal projects",
+  "version": "0.1.0",
+  "author": "Jaydeep Solanki <jaydp17@gmail.com> (https://jaydp.com)",
+  "bugs": {
+    "url": "https://github.com/jaydp17/eslint-config/issues"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  },
+  "homepage": "https://github.com/jaydp17/eslint-config#readme",
+  "keywords": [
+    "config",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018",
+    "eslint",
+    "eslintconfig",
+    "javascript",
+    "please.com",
+    "styleguide"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": "^5.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydp17/eslint-config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
